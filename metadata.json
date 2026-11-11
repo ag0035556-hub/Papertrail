@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle - Newspaper Clipping Caption Animator",
+  "description": "Create realistic vintage newspaper clipping animations synced with audio timestamps, authentic paper textures, dynamic word highlighters, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
